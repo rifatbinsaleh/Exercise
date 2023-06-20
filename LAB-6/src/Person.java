@@ -2,7 +2,7 @@ public class Person {
     private  String Name;
     private  int ID;
 
-    Person(String Name, int ID) {
+    public Person(String Name, int ID) {
         this.Name = Name;
         this.ID = ID;
     }
