@@ -5,6 +5,7 @@ public class First {
     void display(){
         System.out.println(c);
         System.out.println("\n");
+
     }
 
 }
